@@ -19,6 +19,8 @@ The system simulates an order workflow with:
 Each service communicates asynchronously through RabbitMQ using **MassTransit**.  
 Saga Orchestration ensures **distributed transaction consistency** between microservices.
 
-## ⚙️ How to Run
-```bash
-docker-compose up --build
+## 👨‍💻 Author
+**Teymur Rahimli**  
+Full Stack / Backend Developer (.NET, React)  
+📫 teymurrahimli.vr@gmail.com  
+🌐 [Portfolio Website](https://teymurrahimli.az)
